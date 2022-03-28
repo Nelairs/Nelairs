@@ -4,7 +4,7 @@
 
 I'm a *passionate* about **technology** and **programming**. Lately, I got into new technologies like JS for the purpose of becoming a **Backend Developer**. 
 
-==##Languages==:
+## Languages:
 -HTML
 -CSS
 -JavaScript
